@@ -6,8 +6,8 @@ The project utilizes a structured dataset of AI-related job listings to derive a
 > The primary objective is to help individuals, educators, and organizations make informed decisions regarding career development and workforce planning in the AI era.
 
 ---
+![Uploading Screenshot 2025-05-18 222950.png…]()
 
-![Uploading vecteezy_ai-generated-ai-circuit-board-technology-background_37348385-scaled.jpg…]()
 
 
 
