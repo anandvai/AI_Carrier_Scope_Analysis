@@ -10,6 +10,7 @@ The project utilizes a structured dataset of AI-related job listings to derive a
 ![Uploading vecteezy_ai-generated-ai-circuit-board-technology-background_37348385-scaled.jpg…]()
 
 
+
 ## 📂 Dataset Description
 
 The dataset includes a wide range of attributes that provide a holistic view of each job listing:
