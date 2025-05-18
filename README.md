@@ -1,7 +1,7 @@
 # 🔍 AI CareerScope: Analyzing Jobs, Skills & Future Trends
 
 **AI CareerScope** is a comprehensive data analysis project aimed at exploring the current and future scope of careers in the field of Artificial Intelligence and related domains.  
-![Uploading Screenshot 2025-05-18 222950.png…]()
+![Uploading Screenshot 2025-05-18 222950.png…]
 
 The project utilizes a structured dataset of AI-related job listings to derive actionable insights into job market trends, skill demands, automation risk, and career growth projections.
 
